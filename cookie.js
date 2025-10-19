@@ -1,7 +1,7 @@
 [
     {
         "domain": ".netflix.com",
-        "expirationDate": 1768620827.176857,
+        "expirationDate": 1768657447.164694,
         "hostOnly": false,
         "httpOnly": false,
         "name": "netflix-sans-normal-3-loaded",
@@ -24,19 +24,6 @@
         "session": false,
         "storeId": null,
         "value": "v%3D3%26mac%3DAQEAEQABABSAAAJLAi_2_UycKmgbOQ-T4rjdCB_z1Hc.%26dt%3D1760844824956"
-    },
-    {
-        "domain": ".netflix.com",
-        "expirationDate": 1760846628.868215,
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "profilesNewSession",
-        "path": "/",
-        "sameSite": null,
-        "secure": false,
-        "session": false,
-        "storeId": null,
-        "value": "0"
     },
     {
         "domain": ".netflix.com",
@@ -66,7 +53,7 @@
     },
     {
         "domain": ".netflix.com",
-        "expirationDate": 1768620827.176735,
+        "expirationDate": 1768657447.164524,
         "hostOnly": false,
         "httpOnly": false,
         "name": "pas",
@@ -79,7 +66,7 @@
     },
     {
         "domain": ".netflix.com",
-        "expirationDate": 1792380827,
+        "expirationDate": 1792417449,
         "hostOnly": false,
         "httpOnly": false,
         "name": "OptanonConsent",
@@ -88,7 +75,7 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "isGpcEnabled=0&datestamp=Sun+Oct+19+2025+10%3A33%3A47+GMT%2B0700+(Indochina+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=adfaab0a-6dee-4c66-832e-c8e64db4029e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
+        "value": "isGpcEnabled=0&datestamp=Sun+Oct+19+2025+20%3A44%3A09+GMT%2B0700+(Indochina+Time)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=adfaab0a-6dee-4c66-832e-c8e64db4029e&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false"
     },
     {
         "domain": ".netflix.com",
@@ -105,7 +92,7 @@
     },
     {
         "domain": ".netflix.com",
-        "expirationDate": 1760855611.03589,
+        "expirationDate": 1760892246.650572,
         "hostOnly": false,
         "httpOnly": false,
         "name": "flwssn",
@@ -114,11 +101,11 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "aeb81b2b-4772-440d-b04d-3c8833eb69bb"
+        "value": "2c2d64c2-2a6f-464e-9cb7-4d6d5f08a432"
     },
     {
         "domain": ".netflix.com",
-        "expirationDate": 1768620827.176925,
+        "expirationDate": 1768657447.164762,
         "hostOnly": false,
         "httpOnly": false,
         "name": "netflix-sans-bold-3-loaded",
